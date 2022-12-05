@@ -41,3 +41,6 @@ https://www.algospot.com/judge/problem/read/FENCE
 ## :notebook_with_decorative_cover: NOTE
 
 ### CPP
+
+처음에 잘못생각해서 오래걸림.
+그냥 분할정복
